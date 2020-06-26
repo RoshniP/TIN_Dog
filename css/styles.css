@@ -144,4 +144,9 @@ footer{
     #title{
         text-align: center;
     }
+    .nav-link{
+        
+            padding-right:none ;
+        }
 }
+
